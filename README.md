@@ -10,7 +10,7 @@ python3 cryptography.py
 
 Запустите скрипт maxsecrets.py и введите данные из local storage сайта web.max.ru 
 ```bash
-python3 secrets.py
+python3 maxsecrets.py
 ```
 
 Пользуйтесь.
